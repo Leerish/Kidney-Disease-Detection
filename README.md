@@ -1,7 +1,7 @@
 # Image Denoising and Classification Using GANs and CNN Models 🖼️✨  
 
 ## Overview 🧠  
-This project classifies CT kidney images into categories such as pneumonia or non-pneumonia using **Generative Adversarial Networks (GANs)** for denoising and **Convolutional Neural Networks (CNNs)** for classification. The models include a standard CNN and an **EfficientNetB0**. Additionally, **Grad-CAM** is used for visualizing model predictions.  
+This project classifies CT kidney images into categories such as kidney stone or not using **Generative Adversarial Networks (GANs)** for denoising and **Convolutional Neural Networks (CNNs)** for classification. The models include a standard CNN and an **EfficientNetB0**. Additionally, **Grad-CAM** is used for visualizing model predictions.  
 
 The dataset is sourced from Kaggle, featuring CT kidney scans classified as normal, cyst, tumor, or stone. Preprocessing involves image denoising, augmentation, and training on the enhanced dataset.  
 
