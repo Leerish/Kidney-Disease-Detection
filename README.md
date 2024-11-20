@@ -14,8 +14,7 @@ The dataset is sourced from Kaggle, featuring CT kidney scans classified as norm
 4. [Model Architecture 🏗️](#model-architecture)  
 5. [Grad-CAM Visualization 🔍](#grad-cam-visualization)  
 6. [Execution Steps ▶️](#execution-steps)  
-7. [Results 🏆](#results)  
-8. [Future Improvements 🚀](#future-improvements)  
+7. [Future Improvements 🚀](#future-improvements)  
 
 ---
 
