@@ -41,8 +41,8 @@ The dataset is available [here](https://www.kaggle.com/datasets/nazmul0087/ct-ki
 ## Installation and Setup ⚙️  
 ### 1. Clone Repository 📂  
 ```bash  
-git clone <repository-link>  
-cd <repository-folder>  
+git clone https://github.com/Navi2329/Kidney-Disease-Detection/tree/main
+cd repository 
 ```  
 
 ### 2. Install Dependencies 📦  
