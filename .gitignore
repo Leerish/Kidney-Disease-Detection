@@ -8,3 +8,4 @@ best_model.pth
 discriminator_best.pth
 generator_best.pth
 generator.pth
+discriminator.pth
