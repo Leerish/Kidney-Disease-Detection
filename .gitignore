@@ -1,0 +1,10 @@
+runs
+train
+test
+val
+models
+__pycache__
+best_model.pth
+discriminator_best.pth
+generator_best.pth
+generator.pth
