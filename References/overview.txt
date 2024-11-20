@@ -1,1 +1,2 @@
-this folder contains the literature survey papers for the project and research work
+This folder contains the all the references papers (related to literature survey) for the project and research work,
+There are total 22 reference papers,
