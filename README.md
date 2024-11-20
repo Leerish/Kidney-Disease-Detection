@@ -47,6 +47,10 @@ cd repository
 
 ### 2. Install Dependencies 📦  
 ```bash  
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+```  
+
+```bash  
 pip install torch torchvision torchaudio numpy pandas matplotlib scikit-learn opencv-python tqdm grad-cam seaborn  
 ```  
 
