@@ -8,7 +8,7 @@ The dataset is sourced from Kaggle, featuring CT kidney scans classified as norm
 ---
 
 ## Table of Contents 📑  
-1. [Dataset 📊](#dataset)  
+1. [Dataset 📊](##dataset)  
 2. [Project Workflow 🔄](#project-workflow)  
 3. [Installation and Setup ⚙️](#installation-and-setup)  
 4. [Model Architecture 🏗️](#model-architecture)  
