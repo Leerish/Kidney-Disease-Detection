@@ -8,7 +8,7 @@ The dataset is sourced from Kaggle, featuring CT kidney scans classified as norm
 ---
 
 ## Table of Contents 📑  
-1. [Dataset 📊](#dataset)  
+1. [Dataset 📊](##dataset)  
 2. [Project Workflow 🔄](#project-workflow)  
 3. [Installation and Setup ⚙️](#installation-and-setup)  
 4. [Model Architecture 🏗️](#model-architecture)  
@@ -67,14 +67,14 @@ wget https://download.pytorch.org/models/efficientnet_b0_rwightman-3dd342df.pth
 ## Model Architecture 🏗️  
 ### 1. **GAN for Denoising** ✨  
    - **Generator**: U-Net architecture for generating denoised images.  
-   - **Discriminator**: PatchGAN for distinguishing between real and denoised images.  
+   - **Discriminator**: For distinguishing between real and denoised images.
 
 ### 2. **CNN Classifier** 🧠  
    - Convolutional layers → Batch Normalization → ReLU → Max Pooling.  
    - Fully connected layers for binary classification.  
 
 ### 3. **EfficientNetB0** 🏋️‍♂️  
-   - Pretrained model with an updated output layer for binary classification (Pneumonia/Non-Pneumonia).  
+   - Pretrained model with an updated output layer for classification
 
 ---
 
